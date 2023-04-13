@@ -1,5 +1,6 @@
 0. clear
-2.
+4.
+
 # React Skills Test (TypeScript)
 
 # Changes
