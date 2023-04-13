@@ -1,7 +1,4 @@
-2. del
-3. update
-
-4. OK
+0. clear
 
 # React Skills Test (TypeScript)
 
