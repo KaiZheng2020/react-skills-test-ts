@@ -1,10 +1,4 @@
-0. clear
-
-5.
-
-1.
-2.
-3.
+1
 
 # React Skills Test (TypeScript)
 
