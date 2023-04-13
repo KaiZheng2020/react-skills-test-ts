@@ -1,4 +1,5 @@
 2. del
+3. update
 
 # React Skills Test (TypeScript)
 
