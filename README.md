@@ -1,8 +1,12 @@
+
 a
 
 1
 
 2
+
+1. Add
+
 
 # React Skills Test (TypeScript)
 
