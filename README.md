@@ -1,3 +1,5 @@
+2. del
+
 # React Skills Test (TypeScript)
 
 # Changes
