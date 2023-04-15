@@ -1,4 +1,4 @@
-1.1
+1.2
 
 # React Skills Test (TypeScript)
 
