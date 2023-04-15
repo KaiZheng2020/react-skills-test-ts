@@ -3,6 +3,8 @@
 
 Rebase
 
+7.txt
+
 # React Skills Test (TypeScript)
 
 # Changes
